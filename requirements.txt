@@ -1,0 +1,10 @@
+boto3
+pandas
+requests
+psycopg2
+apache-airflow
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-analytics-data
+pyathena
